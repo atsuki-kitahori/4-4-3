@@ -1,2 +1,5 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$word = 'Hello world!';
+$reversed = strrev($word);
+echo $reversed;
+?>
